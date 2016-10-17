@@ -1,4 +1,6 @@
 .idea
 server/node_modules
 npm-debug.log
-conference
+conference/node_modules
+conference/platforms
+conference/plugins
